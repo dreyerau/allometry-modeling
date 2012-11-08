@@ -37,6 +37,10 @@ alleles<-function(s.x,s.sd,i1.x,i2.x,i1.sd,i2.sd,k1.x,k2.x,k1.sd,k2.sd)
 
 ## function to create intial population
 
+start.pop<-function()
+{
+	
+}
 
 ## function to reproduce
 
